@@ -1,7 +1,5 @@
 # timestamp_tools
 Timestamp convert tools.
-<<<<<<< HEAD
-=======
 
 ## Install
 - make build
@@ -13,4 +11,3 @@ Timestamp convert tools.
 or 
 - export PATH=/usr/local/bin:$PATH
 - td 1491028449
->>>>>>> Initial commit
